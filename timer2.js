@@ -13,7 +13,7 @@ let hr_dot2 = document.querySelector('hr_dot2');
 let min_dot2 = document.querySelector('min_dot2');
 let sec_dot2 = document.querySelector('sec_dot2');
 
-let endDate = '05/23/2023 00:13:00';
+let endDate = '06/03/2023 00:13:00';
 // date format mm/dd/yyyy
 
 let x2 = setInterval(function(){
